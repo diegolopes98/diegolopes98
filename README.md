@@ -30,6 +30,7 @@
 **I'm currently interested in...**
 
 ![Golang](https://img.shields.io/badge/Go-494649?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/Rust-494649?style=flat&logo=rust)
 ![C](https://img.shields.io/badge/-C-494649?style=flat&logo=C)
 
 
