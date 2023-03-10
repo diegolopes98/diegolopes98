@@ -1,9 +1,10 @@
 # Hi there 👋
 
-**Main Programming Languages**
+**Programming Languages that I worked with**
 
 ![Java](https://img.shields.io/badge/-Java-494649?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-494649?style=flat&logo=javascript)
+![Golang](https://img.shields.io/badge/Go-494649?style=flat&logo=go)
 
 <br>
 
@@ -27,7 +28,7 @@
 
 <br>
 
-**I'm currently interested in...**
+**I'm most interested in...**
 
 ![Golang](https://img.shields.io/badge/Go-494649?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/Rust-494649?style=flat&logo=rust)
@@ -38,7 +39,7 @@
 
 **My favorite Editors and IDEs**
 
-![VIM](https://img.shields.io/badge/-VIM-494649?style=flat&logo=VIM&logoColor=019733)
+![Nvim](https://img.shields.io/badge/-nvim-494649?style=flat&logo=neovim)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-494649?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br>
