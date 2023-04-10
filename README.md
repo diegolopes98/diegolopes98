@@ -34,6 +34,7 @@
 **I'm most interested in...**
 
 ![Rust](https://img.shields.io/badge/Rust-494649?style=flat&logo=rust)
+![Scala](https://img.shields.io/badge/Scala-494649?logo=Scala&logoColor=ff0011)
 ![C](https://img.shields.io/badge/-C-494649?style=flat&logo=C)
 
 
@@ -41,7 +42,7 @@
 
 **My favorite Editors and IDEs**
 
-![Nvim](https://img.shields.io/badge/-nvim-494649?style=flat&logo=neovim)
+![Neovim](https://img.shields.io/badge/-Neovim-494649?style=flat&logo=neovim)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-494649?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br>
@@ -58,4 +59,4 @@
 
 **Contact me at**
 
-<a href="https://linkedin.com/in/diego-pereira-lopes/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+<a href="https://linkedin.com/in/diego-pereira-lopes/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin" />
