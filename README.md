@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **functional programming, besides grinding some dsa**
 
-- 👨‍💻 Check my personal [website](diegolopes.dev) [WIP] 
+- 👨‍💻 Check my personal [website](https://diegolopes.dev/) [WIP] 
 
 - 💬 Ask me about **Java, Scala and Backend development in general**
 
