@@ -1,62 +1,30 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">Backend developer from Brazil 🇧🇷 who's getting to enjoy functional programming</h3>
 
-**Programming Languages that I have worked with**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegolopes98&theme=onedark" alt="diegolopes98" /></a> </p>
 
-![Java](https://img.shields.io/badge/-Java-494649?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-494649?style=flat&logo=javascript)
-![Golang](https://img.shields.io/badge/Go-494649?style=flat&logo=go)
+- 👔 I’m currently working at [Caju](https://github.com/caju-beneficios)
 
-<br>
+- 🌱 I’m currently learning **functional programming, besides grinding some dsa**
 
-**Some other technologies that I used at work before**
+- 👨‍💻 Check my personal [website](diegolopes.dev) [WIP] 
 
-![Java Spring](https://img.shields.io/badge/-Spring-494649?style=flat&logo=spring&logoColor=6DB33F)
-![Node](https://img.shields.io/badge/-Node-494649?style=flat&logo=node.js&logoColor=339933)
-![MySQL](https://img.shields.io/badge/-MySQL-494649?style=flat&logo=MySQL)
-![Postgresql](https://img.shields.io/badge/-Postgresql-494649?style=flat&logo=postgresql&logoColor=6164ff)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-494649?style=flat&logo=RabbitMQ)
-![Apache Maven](https://img.shields.io/badge/-Maven-494649?style=flat&logo=Apache%20Maven&logoColor=C71A36)
-![Docker](https://img.shields.io/badge/-Docker-494649?style=flat&logo=Docker&logoColor=2496ED)
-![Terraform](https://img.shields.io/badge/-Terraform-494649?style=flat&logo=Terraform&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/-AWS-494649?style=flat&logo=amazon)
+- 💬 Ask me about **Java, Scala and Backend development in general**
 
-![Typescript](https://img.shields.io/badge/-Typescript-494649?style=flat&logo=Typescript&logoColor=007ACC)
-![Jest](https://img.shields.io/badge/-Jest-494649?style=flat&logo=Jest&logoColor=C21325)
-![HTML5](https://img.shields.io/badge/-HTML5-494649?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-494649?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-494649?style=flat&logo=React&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-494649?style=flat&logo=Redux&logoColor=61DAFB)
-![Webpack](https://img.shields.io/badge/-Webpack-494649?style=flat&logo=Webpack)
-![Babel](https://img.shields.io/badge/-Babel-494649?style=flat&logo=Babel&logoColor=F9DC3E)
+- 🥋 Passionated about **Martial Arts, specially MMA and Jiu-Jitsu**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/diego-pereira-lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-pereira-lopes" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/diegolopes98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="diegolopes98" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/diegolopes98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diegolopes98" height="30" width="40" /></a>
+</p>
 
-**I'm most interested in...**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![Rust](https://img.shields.io/badge/Rust-494649?style=flat&logo=rust)
-![Scala](https://img.shields.io/badge/Scala-494649?logo=Scala&logoColor=ff0011)
-![C](https://img.shields.io/badge/-C-494649?style=flat&logo=C)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegolopes98&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="diegolopes98" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegolopes98&show_icons=true&locale=en&theme=blue-green" alt="diegolopes98" /></p>
 
-<br>
-
-**My favorite Editors and IDEs**
-
-![Neovim](https://img.shields.io/badge/-Neovim-494649?style=flat&logo=neovim)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-494649?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br>
-
-**Checkout my stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=diegolopes98&theme=blue-green" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegolopes98&theme=blue-green" />
-
-<br>
-
-**Contact me at**
-
-<a href="https://linkedin.com/in/diego-pereira-lopes/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegolopes98&theme=blue-green" alt="diegolopes98" /></p>
